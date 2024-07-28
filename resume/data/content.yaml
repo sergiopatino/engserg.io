@@ -1,0 +1,132 @@
+BasicInfo:
+  FirstName: Sergio
+  LastName: Patino
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 858 736 4884
+    - Icon: fas fa-envelope
+      Info: sergio@vertigobox.org
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://linkedin.com/in/sergiopatino" target="_blank">linkedin.com/in/sergiopatino</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Boulder, Colorado
+
+Profile: Accomplished hands-on engineer and technical leader at project and organization levels. Extensive knowledge of both cloud and enterprise technology and methodology. Exceptional analytical, communication, team-building, mentoring and interpersonal skills.
+
+Experience:
+  - Role: Platform Security & Compliance Engineering
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Staff Software Engineer
+        Date: Feb 2020 - Present
+        Details:
+          - Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit’s cloud footprint by ensuring all services adhere to strict security standards.
+          - Build and maintain components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit’s cloud-hosted products and resources. The platform evaluates controls for various compliance frameworks (NIST, CIS, PCI DSS, SOX, etc.) and provides APIs, UI dashboards, search tools, and reporting capabilities for Intuit’s developers, auditors, and leadership teams.
+          - Technologies employed in my day to day include Containerization (Docker, Kubernetes), Serverless (AWS Lambda), Infrastructure as Code (AWS CloudFormation & CDK), NoSQL (MongoDB, AWS DynamoDB), Data Stream Processing (AWS Kinesis), Identity Management (AWS IAM),  Cloud Security Posture Management (AWS SecurityHub, GuardDuty), as well as various observability, tracing & logging tools.
+          - Facilitate weekly / bi-weekly meetings with stakeholders and our team, providing a platform to request new components or seek guidance on using existing ones. Partner with  AWS product teams to evaluate new service features, give feedback and request features to put into their roadmap. Maintain engineering design and requirements documentation.
+        Badges: ['Agile', 'Automation', 'Cloud', 'Containerization', 'Data Modeling', Software Development', 'Security', 'Serverless']
+  - Role: Cloud Infrastructure Engineering
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Staff Software Engineer
+        Date: Jul 2016 - Jan 2020
+        Details:
+          - Developed cloud infrastructure services that enabled Intuit’s products to run fully in AWS. My team was responsible for establishing architectural patterns, developing services for event-driven security automation and policy enforcement, operational hygiene, automated monitoring and logging, and cost optimization.
+          - Created and maintained a platform to deliver over three million time series metric points per second from both on-premise and cloud resources to our observability service. The platform was written in Python and leveraged services such as AWS Lambda, S3, and EC2. 
+          - Maintained and enhanced a distributed service that aggregates metadata for all AWS resources deployed in the cloud, providing real-time inventory across thousands of AWS accounts. The service was primarily written in Python and deployed using AWS Lambda and Elasticsearch.
+        Badges: ['Agile', 'Automateion', 'Cloud', 'Data Processing', 'Observability', Software Development', 'Serverless',]
+  - Role: Product Infrastructure Engineering
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Staff Systems Engineer
+        Date: May 2012 - Jun 2016
+        Details:
+          - Responsible for infrastructure engineering, automation and monitoring of the Small Business ecosystem within Intuit.
+          - Planned and executed a data center migration for services, including QuickBooks Online, to a newly built facility. This effort involved automating the provisioning of virtualized resources (VMware), software-defined networking technology (Cisco), and Chef & Ansible software configuration management.
+          - Planned and implemented a centralized user authentication solution for production systems access  leveraging the DUO security platform. Project was completed in time to avoid contract renewals with a prior vendor and saved the company over $250K
+        Badges: [ 'Authentication', 'Automation', 'DevOps', 'Monitoring', 'Network', 'Storage', 'Virtualization']
+  - Role: Service Delivery Engineering
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Senior Systems Engineer
+        Date: Jan 2010 - Apr 2012
+        Details:
+          - Member of the service delivery team tasked with providing IT hosting services to Intuit's Small Business product and service offerings.
+          - Partnered with developers to understand their hosting requirements, and then planned, built, and deployed on-premise data center infrastructure (network, server, storage) in both bare metal and virtualization environments.
+          - Planned and implemented scaling capacity, high availability, and disaster recovery strategies, including the build-out of a disaster recovery environment at co-located facilities.
+        Badges: [ 'Capacity Planning', 'Infrastructure', 'HA/DR' ]
+  - Role: Data Center Infrastructure Operations
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Systems Engineer
+        Date: Nov 2007 - Dec 2009
+        Details:
+          - Designed hosting solutions for Intuit’s online applications in the web and small business space, supporting some of the largest customer-facing Intuit applications, including its web commerce platform and QuickBooks Online.
+          - Tasked with operational support of production and development environments, supporting a wide range of systems and environments from highly available front end customer facing offerings, to back office order management applications leveraging a wide range of virtualization, network, and storage technologies (VMWare, EMC, NetApp, Cisco, Big5).
+          - Acted as liaison between business unit product development groups and partner organization teams (DBAs, Network, Storage Engineers, etc).
+  - Role: Network Operations Center
+    Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
+    Positions:
+      - Title: Lead Operations Analyst
+        Date: Apr 2004 - Oct 2010
+        Details:
+          - Monitor operations of all data center applications and services associated with Intuit’s key businesses.
+          - Lead analyst responsible for coordinating production outages in coordination with operations support teams, leadership, vendors, and data center facilities teams.
+  - Role: IT Department
+    Employer:  <a class="contact__link" href="https://lee.net" target="_blank">Lee Enterprises</a>
+    Positions:
+      - Title: Systems Administrator
+        Date: Jun 1998 - Aug 2002
+        Details:
+          - Provided IT support for NCTimes.net, a dial-up Internet service operated by local newspaper publication.
+          - Helped relocate server infrastructure from on-site facilities to a co-located data center with minimal downtime.
+          - Helped improve service reliability through no cost, open sources software solutions for mail, web, ftp, news services.
+          - Responsible for overseeing and scheduling technical support staff.
+
+Education:
+  - Course: Coursework in Computer Science and Mathematics
+    Place: San Diego Community College
+    Date: 2001- 2003
+
+Skills:
+  - Family: Languages
+    Items:
+      - Golang
+      - Python
+      - Javascript / React
+      - Ruby
+      - Perl
+      - Bash / Shell
+  - Family: Orchestration
+    Items:
+      - Kubernetes
+      - Docker Swarm
+      - ArgoCD
+      - AWS CDK
+      - AWS CloudFormation
+      - AWS StepFunctions
+      - Chef
+      - Ansible
+  - Family: Data
+    Items:
+      - MongoDB
+      - DynamoDB
+      - ElasticSearch / OpenSearch
+      - GraphQL
+      - SQL
+      - Redis / Memcached
+  - Family: CI/CD
+    Items:
+      - Jenkins
+      - AWS CodeBuild
+      - AWS CodePipeline
+  - Family: Observability
+    Items:
+      - VMWare Wavefront
+      - Prometheus / Grafana
+      - Splunk
+      - AWS CloudWatch
+
+Diplomas:
+  - AWS Solutions Architect
