@@ -83,51 +83,31 @@ Education:
     Date: 2001- 2003
 
 Skills:
-  - Golang
-  - Python
-  - Perl
-  - Javascript
-  - React
-  - Ruby
-  - Bash
-  - Shell
-  - Docker
-  - Kubernetes
-  - ArgoCD
-  - Serverless
-  - AWS Lambda
-  - Terraform
-  - Ansible
-  - Chef
-  - CI/CD
-  - Jenkins
-  - AWS CloudFormation
-  - AWS CDK
-  - MongoDB
-  - SQL
-  - AWS DynamoDB
-  - AWS Kinesis
-  - AWS SQS
-  - AWS SNS
-  - Observability
-  - Splunk
-  - AWS CloudWatch
-  - Prometheus
-  - Grafana
-  - VMWare Wavefront
-  - Redis
-  - Memcached
-  - GraphQL
-  - REST
-  - AWS CodeBuild
-  - AWS CodePipeline
-  - AWS IAM
-  - Security Engineering
-  - DevOps
-  - AWS StepFunctions
-  - Vulnerability Management
-  - ElasticSearch
-  - OpenSearch
+  - Golang, Python, Ruby,
+  - Javascript, React, Perl,
+  - Bash, Shell,
+  - Docker, Kubernetes, ArgoCD,
+  - Serverless, AWS Lambda
+  - Terraform, Ansible, Chef,
+  - CI/CD, Jenkins,
+  - AWS CloudFormation, AWS CDK,
+  - MongoDB, SQL, AWS DynamoDB,
+  - AWS Kinesis, AWS SQS, AWS SNS,
+  - DevOps, Observability, Splunk,
+  - AWS CloudWatch,
+  - Prometheus, Grafana,
+  - VMWare Wavefront,
+  - Redis, Memcached,
+  - GraphQL, REST,
+  - AWS CodeBuild,
+  - AWS CodePipeline,
+  - RBAC, AWS IAM,
+  - Security Engineering,
+  - AWS SecurityHub,
+  - AWS GuardDuty,
+  - AWS StepFunctions,
+  - Vulnerability Management,
+  - ElasticSearch, OpenSearch,
   - Cloud Security
 
 Diplomas:
