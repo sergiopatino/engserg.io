@@ -12,7 +12,3 @@ command = "hugo --gc --minify"
 from = "/resume"
 to = "/"
 status = 200
-
-from = "/"
-to = "/resume"
-status = 200
