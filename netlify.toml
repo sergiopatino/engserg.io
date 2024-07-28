@@ -4,7 +4,7 @@ TZ = "America/Denver"
 
 [build]
 publish = "public"
-command = "hugo -s resume -d ../ --gc --minify"
+command = "hugo --gc --minify"
 
 # Rewrite a path
 [[redirects]]
