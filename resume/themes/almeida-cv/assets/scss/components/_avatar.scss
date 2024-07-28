@@ -7,7 +7,6 @@
     &__container {
         @include hz-center;
         width: 100%;
-        //clip-path: rect(5px 5px 160px 160px round 20%);
         height: $width-right-col - 8rem;
         text-align: center;
         transition: all 0.3s cubic-bezier($cubic);
