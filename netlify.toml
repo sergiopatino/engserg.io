@@ -3,7 +3,7 @@ HUGO_VERSION = "0.129.0"
 TZ = "America/Denver"
 
 [build]
-base = "resume/"
+base = "/"
 publish = "public"
 command = "hugo -s resume --gc --minify"
 
