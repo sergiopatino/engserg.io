@@ -11,9 +11,10 @@ BasicInfo:
       Info: <a class="contact__link" href="https://linkedin.com/in/sergiopatino" target="_blank">linkedin.com/in/sergiopatino</a>
     - Icon: fas fa-map-marker-alt
       Info: Boulder, Colorado
+    - Icon:
+      Info:
     - Icon: fas fa-file-pdf
-      Info: <a class="contact__link" href="/pdf/Sergio_Patino_Resume.pdf" target="_blank">pdf</a>
-
+      Info: <a class="contact__link" href="/pdf/Sergio_Patino_Resume.pdf" target="_blank">PDF Version</a>
 Profile: Accomplished hands-on engineer and technical leader at project and organization levels. Extensive knowledge of both cloud and enterprise technology and methodology. Exceptional analytical, communication, team-building, mentoring and interpersonal skills.
 
 Experience:
