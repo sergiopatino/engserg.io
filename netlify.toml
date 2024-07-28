@@ -3,8 +3,8 @@ HUGO_VERSION = "0.129.0"
 TZ = "America/Denver"
 
 [build]
-base = "/resume"
-publish = "resume/public"
+base = "resume"
+publish = "public"
 command = "hugo --gc --minify"
 
 # Rewrite a path
