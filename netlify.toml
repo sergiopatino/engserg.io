@@ -9,6 +9,6 @@ command = "hugo --gc --minify"
 
 # Rewrite a path
 [[redirects]]
-from = "/resume"
-to = "/"
+from = "/"
+to = "/resume"
 status = 200
