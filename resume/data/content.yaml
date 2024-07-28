@@ -90,6 +90,8 @@ Skills:
   - Serverless, AWS Lambda
   - Terraform, Ansible, Chef,
   - CI/CD, Jenkins,
+  - AWS CodeBuild,
+  - AWS CodePipeline,
   - AWS CloudFormation, AWS CDK,
   - MongoDB, SQL, AWS DynamoDB,
   - AWS Kinesis, AWS SQS, AWS SNS,
@@ -99,16 +101,13 @@ Skills:
   - VMWare Wavefront,
   - Redis, Memcached,
   - GraphQL, REST,
-  - AWS CodeBuild,
-  - AWS CodePipeline,
   - RBAC, AWS IAM,
-  - Security Engineering,
+  - Cloud Security Engineering,
   - AWS SecurityHub,
   - AWS GuardDuty,
   - AWS StepFunctions,
   - Vulnerability Management,
-  - ElasticSearch, OpenSearch,
-  - Cloud Security
+  - ElasticSearch, OpenSearch
 
 Diplomas:
   - AWS Solutions Architect
