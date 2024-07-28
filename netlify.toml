@@ -4,7 +4,7 @@ TZ = "America/Denver"
 
 [build]
 base = "/resume"
-publish = "public"
+publish = "resume/public"
 command = "hugo --gc --minify"
 
 # Rewrite a path
