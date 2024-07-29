@@ -9,6 +9,8 @@ BasicInfo:
       Info: <a class="contact__link" href="https://linkedin.com/in/sergiopatino" target="_blank">linkedin.com/in/sergiopatino</a>
     - Icon: fas fa-phone
       Info: 858.736.4884
+    - Icon: fas fa-flag-usa
+      Info: US Citizen
     - Icon: fas fa-map-marker-alt
       Info: Boulder, Colorado
     - Icon: fas fa-file-pdf
@@ -97,7 +99,6 @@ Skills:
   - RBAC, AWS IAM,
   - Cloud Security Engineering,
   - AWS SecurityHub,
-  - AWS GuardDuty,
   - AWS StepFunctions,
   - Vulnerability Management,
   - ElasticSearch, OpenSearch
