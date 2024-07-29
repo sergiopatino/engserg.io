@@ -13,7 +13,7 @@ BasicInfo:
       Info: Boulder, Colorado
     - Icon: fas fa-file-pdf
       Info: <a class="contact__link" href="/pdf/Sergio_Patino_Resume.pdf" target="_blank">PDF Version</a>
-Profile: Accomplished hands-on engineer and technical leader at project and organization levels. Extensive knowledge of both cloud and enterprise technology and methodology. Proven track record in building strategic partnerships and effectively prioritizing work to meet organizational goals. Outstanding skills in analysis, communication, team-building, mentoring, and interpersonal interactions.
+Profile: Accomplished hands-on engineer and technical leader with extensive knowledge of both cloud and enterprise technology and methodology. Proven track record in building strategic partnerships within organizations and effectively prioritizing work to meet goals. Outstanding skills in analysis, communication, team-building, mentoring, and interpersonal interactions.
 Experience:
   - Role: Staff Software Engineer
     Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
