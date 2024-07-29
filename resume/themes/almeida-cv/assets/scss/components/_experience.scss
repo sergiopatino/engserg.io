@@ -82,9 +82,14 @@
         }
     }
 
-    &__bullet {
+    &__summary {
         list-style: square inside;
         margin-left: 1rem;
+    }
+
+    &__bullet {
+        list-style: square inside;
+        margin-left: 2rem;
     }
 
     &__badges {

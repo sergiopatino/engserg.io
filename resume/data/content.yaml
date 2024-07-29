@@ -20,8 +20,8 @@ Experience:
     Positions:
       - Title: Platform Security & Compliance Engineering
         Date: Feb 2020 - Present
+        Summary: Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit's cloud footprint by ensuring all services adhere to strict security standards.
         Details:
-          - Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit's cloud footpri by ensuring all services adhere to strict security standards.
           - Build and maintain components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit's cloud-hosted products and resources.
           - Design and implement back end services that enable key functionality, maintain system performance, and operational hygiene
           - Conduct regular meetings with stakeholders and team, managing requests for new components. Collaborate with AWS product teams to assess new features, provide feedback, and influence their roadmap.Maintain design and requirements documentation.
@@ -31,9 +31,9 @@ Experience:
     Positions:
       - Title: Cloud Infrastructure Engineering
         Date: Jul 2016 - Jan 2020
+        Summary: My team was responsible for establishing architectural patterns, developing cloud services for event-driven security automation and policy enforcement, operational hygiene, automated monitoring and logging, and cost optimization to enable Intuit's products to run fully in AWS
         Details:
-          - My team was responsible for establishing architectural patterns, developing cloud services for event-driven security automation and policy enforcement, operational hygiene, automated monitoring and logging, and cost optimization to enable Intuit's products to run fully in AWS
-          - Built a search query service which aggregated events (AWS Cloudtrail & Config) across all AWS accounts and provided attribution and auditing for changes made to production resources. Service was originally built atop ElasticSearch but was later re-designed to use S3 and AWS Athena resulting in significant cost savings..
+          - Built a search query service which aggregated events (AWS CloudTrail & Config) across all AWS accounts and provided attribution and auditing for changes made to production resources. Service was originally built atop ElasticSearch but was later re-designed to use S3 and AWS Athena resulting in significant cost savings..
           - Developed a Python-based service for delivering 300k+ time series metric points/second from all of Intuit's cloud services to a monitoring platform, resulting in significant latency reduction and cost savings.
           - Maintained and enhanced a service that aggregated metadata for all AWS resources, providing real-time inventory across thousands of AWS accounts. Improved the service's overall uptime and scaled support for new AWS services by 50%
           - Recognized as a high performing member of the organization (Get Things Done Award).
@@ -43,6 +43,7 @@ Experience:
     Positions:
       - Title: Product Infrastructure Engineering
         Date: May 2012 - Jun 2016
+        Summary: Responsible for infrastructure engineering, automation and monitoring of the Small Business ecosystem within Intuit.
         Details:
           - Planned and executed a data center migration for services, including QuickBooks Online, to a newly built facility. This effort involved automating the provisioning of virtualized resources (VMware), software-defined networking technology (Cisco).
           - Revamped the server configuration process by replacing a collection of shell scripts with Chef configuration management tools, resulting in a 50% reduction in maximum server provisioning time.
@@ -53,8 +54,8 @@ Experience:
     Positions:
       - Title: Service Delivery Engineering
         Date: Jan 2010 - Apr 2012
+        Summary: Member of the service delivery team tasked with providing IT hosting services to Intuit's Small Business product and service offerings.
         Details:
-        - Member of the service delivery team tasked with providing IT hosting services to Intuit's Small Business product and service offerings.
         - Partnered with developers to understand their hosting requirements, and then planned, built, and deployed on-premise data center infrastructure (network, server, storage) in both bare metal and virtualization environments.
         - Planned and implemented scaling capacity, high availability, and disaster recovery strategies, including the build-out of a disaster recovery environment at co-located facilities.
         Badges: [ 'Capacity Planning', 'Infrastructure', 'HA/DR' ]
@@ -63,8 +64,8 @@ Experience:
     Positions:
       - Title: Data Center Infrastructure Operations
         Date: Nov 2007 - Dec 2009
+        Summary: Designed hosting solutions for Intuit’s online applications in the web and small business space, supporting some of the largest customer-facing Intuit applications, including its web commerce platform and QuickBooks Online.
         Details:
-          - Designed hosting solutions for Intuit’s online applications in the web and small business space, supporting some of the largest customer-facing Intuit applications, including its web commerce platform and QuickBooks Online.
           - Tasked with operational support of production and development environments, supporting a wide range of systems and environments from highly available front end customer facing offerings, to back office order management applications leveraging a wide range of virtualization, network, and storage technologies (VMWare, EMC, NetApp, Cisco, Big5).
           - Acted as liaison between business unit product development groups and partner organization teams (DBAs, Network, Storage Engineers, etc).
   - Role: Lead Operations Analyst
@@ -72,8 +73,8 @@ Experience:
     Positions:
       - Title: Network Operations Center
         Date: Apr 2004 - Oct 2007
+        Summary: Team was tasked with 24/7 monitoring and operational support.
         Details:
-          - Team tasked with 24/7 monitoring and operational support.
           - Monitor operations of all data center applications and services associated with Intuit’s key businesses.
           - Lead analyst responsible for coordinating production outages in coordination with operations support teams, leadership, vendors, and data center facilities teams.
 
