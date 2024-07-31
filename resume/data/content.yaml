@@ -25,7 +25,7 @@ Experience:
         Summary: Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit's cloud footprint by ensuring all services adhere to strict security standards.
         Details:
           - Build and maintain components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit's cloud-hosted products and resources.
-          - Design and implement back end services that enable key functionality, maintain system performance, and operational hygiene
+          - Design and implement back end services that enable key functionality, maintain system performance, and operational hygiene.
           - Conduct regular meetings with stakeholders and team, managing requests for new components. Collaborate with AWS product teams to assess new features, provide feedback, and influence their roadmap.Maintain design and requirements documentation.
           - As a Scrum leader for the team, I facilitate quarterly and Sprint planning meetings as well as curating Sprint story creation and running daily stand-ups.
         Badges: ['Agile', 'Automation', 'Cloud', 'Containerization', 'Data Modeling', Software Development', 'Security', 'Serverless']
@@ -34,11 +34,11 @@ Experience:
     Positions:
       - Title: Cloud Infrastructure Engineering
         Date: Jul 2016 - Jan 2020
-        Summary: My team was responsible for establishing architectural patterns, developing cloud services for event-driven security automation and policy enforcement, operational hygiene, automated monitoring and logging, and cost optimization to enable Intuit's products to run fully in AWS
+        Summary: My team was responsible for establishing architectural patterns, developing cloud services for event-driven security automation and policy enforcement, operational hygiene, automated monitoring and logging, and cost optimization to enable Intuit's products to run fully in AWS.
         Details:
           - Built a search query service which aggregated events (AWS CloudTrail & Config) across all AWS accounts and provided attribution and auditing for changes made to production resources. Service was originally built atop ElasticSearch but was later re-designed to use S3 and AWS Athena resulting in significant cost savings..
           - Developed a Python-based service for delivering 300k+ time series metric points/second from all of Intuit's cloud services to a monitoring platform, resulting in significant latency reduction and cost savings.
-          - Maintained and enhanced a service that aggregated metadata for all AWS resources, providing real-time inventory across thousands of AWS accounts. Improved the service's overall uptime and scaled support for new AWS services by 50%
+          - Maintained and enhanced a service that aggregated metadata for all AWS resources, providing real-time inventory across thousands of AWS accounts. Improved the service's overall uptime and scaled support for new AWS services by 50%.
           - Recognized as a high performing member of the organization (Get Things Done Award).
         Badges: ['Agile', 'Automateion', 'Cloud', 'Data Processing', 'Observability', Software Development', 'Serverless',]
   - Role: Staff Systems Engineer
