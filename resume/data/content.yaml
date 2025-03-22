@@ -22,7 +22,7 @@ Experience:
     Positions:
       - Title: Security Platform Engineering
         Date: Dec 2024 - Present
-        Summary: Working within the Splunk Global Security (SGS) organization to develop and deploy security engineering solutions that enhance Splunk's overall security posture and infrastructure.
+        Summary: Working within the Splunk Global Security organization to develop and deploy security engineering solutions that enhance Splunk's overall security posture and infrastructure.
         Details:
           - Design and develop cloud-native security automation tools and services using Python and Go to improve threat detection and remediation capabilities.
           - Build and maintain infrastructure-as-code deployments using Terraform and Kubernetes for security monitoring systems.
