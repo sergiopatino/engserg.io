@@ -17,11 +17,24 @@ BasicInfo:
       Info: <a class="contact__link" href="/pdf/Sergio_Patino_Resume.pdf" target="_blank">PDF Version</a>
 Profile: Accomplished hands-on engineer and technical leader with extensive knowledge of both cloud and enterprise technology and methodology. Proven track record in building strategic partnerships within organizations and effectively prioritizing work to meet goals. Outstanding skills in analysis, communication, team-building, mentoring, and interpersonal interactions.
 Experience:
+  - Role: Senior Software Engineer
+    Employer: <a class="contact__link" href="https://splunk.com" target="_blank">Splunk, a Cisco company.</a>
+    Positions:
+      - Title: Security Platform Engineering
+        Date: Dec 2024 - Present
+        Summary: Working within the Splunk Global Security (SGS) organization to develop and deploy security engineering solutions that enhance Splunk's overall security posture and infrastructure.
+        Details:
+          - Design and develop cloud-native security automation tools and services using Python and Go to improve threat detection and remediation capabilities.
+          - Build and maintain infrastructure-as-code deployments using Terraform and Kubernetes for security monitoring systems.
+          - Collaborate with SOC, Incident Response, and Threat Management teams to identify security requirements and implement appropriate engineering solutions.
+          - Participate in code reviews and troubleshooting of production security systems while maintaining on-call rotation responsibilities.
+          - Lead technical architecture decisions for new security platform components and mentor junior engineers on security engineering best practices.
+        Badges: ['Cloud Security', 'Software Development', 'Automation', 'Python', 'Go', 'Kubernetes', 'CI/CD', 'Infrastructure as Code']
   - Role: Staff Software Engineer
     Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
     Positions:
       - Title: Platform Security & Compliance Engineering
-        Date: Feb 2020 - Present
+        Date: Feb 2020 - Sep 2024
         Summary: Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit's cloud footprint by ensuring all services adhere to strict security standards.
         Details:
           - Build and maintain components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit's cloud-hosted products and resources.
