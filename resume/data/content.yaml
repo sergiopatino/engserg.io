@@ -22,7 +22,7 @@ Experience:
     Positions:
       - Title: Security Platform Engineering
         Date: Dec 2024 - Present
-        Summary: Working within the Splunk Global Security organization to develop and deploy security engineering solutions that enhance Splunk's overall security posture and infrastructure.
+        Summary: Working within the Splunk Global Security organization to develop and deploy security engineering solutions that enhance Splunk's overall security posture and infrastructure in the cloud.
         Details:
           - Design and develop cloud-native security automation tools and services using Python and Go to improve threat detection and remediation capabilities.
           - Build and maintain infrastructure-as-code deployments using Terraform and Kubernetes for security monitoring systems.
@@ -35,12 +35,12 @@ Experience:
     Positions:
       - Title: Platform Security & Compliance Engineering
         Date: Feb 2020 - Sep 2024
-        Summary: Focus heavily on cloud infrastructure security automation. Our team safeguards Intuit's cloud footprint by ensuring all services adhere to strict security standards.
+        Summary: Focused heavily on cloud infrastructure security automation, safeguarding Intuit's cloud footprint by ensuring all services adhered to strict security standards.
         Details:
-          - Build and maintain components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit's cloud-hosted products and resources.
-          - Design and implement back end services that enable key functionality, maintain system performance, and operational hygiene.
-          - Conduct regular meetings with stakeholders and team, managing requests for new components. Collaborate with AWS product teams to assess new features, provide feedback, and influence their roadmap. Maintain design and requirements documentation.
-          - As a Scrum leader for the team, I facilitate quarterly and Sprint planning meetings as well as curating Sprint story creation and running daily stand-ups.
+          - Built and maintained components (services, APIs, SDKs, CLIs, data models, and database schemas) for an internal security & compliance platform that supports Intuit's cloud-hosted products and resources.
+          - Designed and implemented back end services that enable key functionality, maintain system performance, and operational hygiene.
+          - Conducted regular meetings with stakeholders and team, managing requests for new components. Collaborated with AWS product teams to assess new features, provide feedback, and influence their roadmap. Maintained design and requirements documentation.
+          - As a Scrum leader for the team, I facilitated quarterly and Sprint planning meetings as well as curating Sprint story creation and hosting daily stand-ups.
         Badges: ['Agile', 'Automation', 'Cloud', 'Containerization', 'Data Modeling', Software Development', 'Security', 'Serverless']
   - Role: Staff Software Engineer
     Employer:  <a class="contact__link" href="https://intuit.com" target="_blank">Intuit, Inc.</a>
